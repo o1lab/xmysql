@@ -20,7 +20,7 @@
     "xmysql": "bin/index.js"
   },
   "repository": "o1lab/xmysql",
-  "homepage": "https://github.com/o1lab/xmysql",
+  "homepage": "https://github.com/nocodb/nocodb",
   "author": "o1lab",
   "license": "MIT",
   "dependencies": {

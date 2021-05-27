@@ -1,10 +1,19 @@
 ![npm version](https://img.shields.io/node/v/xmysql.svg)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/o1lab/xmysql/master/LICENSE)
 
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://www.github.com/nocodb/nocodb">Xmysql is now NocoDB </a><br>
+    </b>
+    ✨ The Open Source Airtable Alternative ✨ <br>
 
-# Xmysql : One command to generate REST APIs for any MySql database
+</h1>
 
-# Why this ?
+https://github.com/nocodb/nocodb
+
+## Xmysql : One command to generate REST APIs for any MySql database
+
+## Why this ?
 <p align="center">
   <img src="./assets/rick-and-morty.gif" alt="xmysql gif"/>
 </p>
@@ -14,7 +23,7 @@ frameworks such as rails, django, laravel etc is a small adventure that one like
 
 Hence this.
 
-# Setup and Usage
+## Setup and Usage
 
 xmysql requires node >= 7.6.0
 
@@ -36,7 +45,7 @@ Happy hackery!
 <!-- Place this tag where you want the button to render. -->
 
 
-# Example : Generate REST APIs for [Magento](http://www.magereverse.com/index/magento-sql-structure/version/1-7-0-2)
+## Example : Generate REST APIs for [Magento](http://www.magereverse.com/index/magento-sql-structure/version/1-7-0-2)
 
 Powered by popular node packages : ([express](https://github.com/expressjs/express), [mysql](https://github.com/mysqljs/mysql)) => { [xmysql](https://github.com/o1lab/xmysql) }
 <p align="center">
@@ -62,7 +71,7 @@ Powered by popular node packages : ([express](https://github.com/expressjs/expre
 
 
 
-# Features
+## Features
 * Generates API for **ANY** MySql database :fire::fire:
 * Serves APIs irrespective of naming conventions of primary keys, foreign keys, tables etc :fire::fire:
 * Support for composite primary keys :fire::fire:
